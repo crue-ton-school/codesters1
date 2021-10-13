@@ -1,0 +1,1 @@
+stage.set_background("city")
