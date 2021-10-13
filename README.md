@@ -1,5 +1,5 @@
-## What code monkey course is this for? ##
-It is for the python chat bot!
+## What codesters course is this for? ##
+It is for the first one! `Coding: Building Your First Program`
 
 
 ## Credits ##
